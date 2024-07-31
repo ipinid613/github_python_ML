@@ -11,6 +11,9 @@
 # 코랩 세팅
 github_settings.ipynb
 
+# 코랩 대용량 무시
+AICE_source/
+
 # IPython
 profile_default/
 ipython_config.py
